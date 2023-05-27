@@ -1,0 +1,11 @@
+.patrat{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
